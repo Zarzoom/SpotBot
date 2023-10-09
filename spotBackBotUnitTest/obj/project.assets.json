@@ -3968,7 +3968,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sophi_7np5wrj\\.nuget\\packages\\": {}
+    "C:\\Users\\Sophi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3976,11 +3976,11 @@
       "projectUniqueName": "C:\\source\\SpotBot\\spotBackBotUnitTest\\spotBackBotUnitTest.csproj",
       "projectName": "spotBackBotUnitTest",
       "projectPath": "C:\\source\\SpotBot\\spotBackBotUnitTest\\spotBackBotUnitTest.csproj",
-      "packagesPath": "C:\\Users\\Sophi_7np5wrj\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Sophi\\.nuget\\packages\\",
       "outputPath": "C:\\source\\SpotBot\\spotBackBotUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sophi_7np5wrj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sophi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -4036,12 +4036,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.20, 6.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.20, 6.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.20, 6.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Sophi\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
